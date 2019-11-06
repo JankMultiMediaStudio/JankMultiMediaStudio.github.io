@@ -1,13 +1,26 @@
+@font-face {
+    font-family: Montserrat;
+    src: url("fonts/montserrat/Montserrat-Regular.otf");
+}
+
 body {
     /*Set the background color*/
-    background-color: #a5a08b;
+    /*background-color: #a5a08b;*/
+    background-color: #c1f3ff;
 }
 
 p {
     /*Set the accent color*/
-    background-color: #efafa3;
+    /*background-color: #efafa3;*/
+    font-family: Montserrat;
 }
 
 pre {
-    background-color: #efafa3;
+    /*background-color: #efafa3;*/
+}
+
+table {
+    /*background-color: #efafa3;*/
+    /*background-color: #ffcefa;*/
+    background-color: #feb1ec;
 }
